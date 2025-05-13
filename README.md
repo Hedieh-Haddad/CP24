@@ -1,1 +1,2 @@
-# Comparison of Hyperparameter Optimization Methods for Selecting Search Strategy of Constraint Programming Solvers
+# HPO Comparison
+Comparison of Hyperparameter Optimization Methods for Selecting Search Strategy of Constraint Programming Solvers
